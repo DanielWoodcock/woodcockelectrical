@@ -1,4 +1,4 @@
-[LED Lighting](ledlighting.md)
+![Logo](assets/img/namelogo.png)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
