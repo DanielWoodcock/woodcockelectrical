@@ -1,5 +1,5 @@
 title: <title>&nbsp;</title>
-logo: /assets/img/bwlogo.png
+logo: /assets/img/bwlogo.jpg
 description: Quality job, every time! <a href="tel:0432253216">Call us now</a>
 show_downloads: false
 favicon: true
@@ -23,8 +23,7 @@ sidebar:
   - name: Contact Us
     icon: <i class="fa-solid fa-envelope"></i>
     link: contact-us.html
-    
-    
+    <p style="page-break-before:always">
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/woodcockelectrical
