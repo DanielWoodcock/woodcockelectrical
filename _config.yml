@@ -1,6 +1,6 @@
 title: <h1 style="font-family:verdana;">This is a heading</h1>
 logo: assets/img/namelogo.png
-description: Quality job, every time! <a href="tel:0432253216">Call us now</a>
+description: Quality job, every time! <a href="tel:0432253216">Call us now</a> <i class="fa-solid fa-phone"></i>
 show_downloads: false
 favicon: true
 color-scheme: auto
