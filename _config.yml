@@ -16,6 +16,9 @@ sidebar:
   - name: LED Lighting
     icon: <i class="fa-regular fa-lightbulb"></i>
     link: ledlighting.html
+  - name: Test & Tag
+    icon: <i class="fa-solid fa-plug-circle-check"></i>
+    link: testandtag.html
   - name: About Us
     icon: <i class="fa-solid fa-user-group"></i>
     link: about-us.html
