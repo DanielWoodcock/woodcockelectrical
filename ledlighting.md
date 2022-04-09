@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 LED Lighting
 
 Lighting accounts for around 10% of electricity usage in households, and 18–40% of in commercial premises.
