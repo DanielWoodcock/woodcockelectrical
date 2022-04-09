@@ -1,6 +1,5 @@
 title: Home
 logo: /assets/img/namelogo.png
-email: <a href="mailto:daniel@woodcockelectrical.com.au">Contact us</a>
 tel: <a href="tel:0432253216">Call us</a>
 description: Quality job, every time!
 show_downloads: false
@@ -16,6 +15,12 @@ sidebar:
   - name: LED Lighting
     icon: <i class="fa-regular fa-lightbulb"></i>
     link: ledlighting.html
+  - name: About Us
+    icon: <i class="fa-solid fa-user-group"></i>
+    link: about-us.html
+  - name: Contact Us
+    icon: <i class="fa-solid fa-envelope"></i>
+    link: contact-us.html
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/woodcockelectrical
