@@ -13,7 +13,7 @@ plugins:
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
   - name: LED Lighting
-    icon: <i class="fa-regular fa-lightbulb-on"></i>
+    icon: <i class="fa-regular fa-lightbulb"></i>
     link: ledlighting.md
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
