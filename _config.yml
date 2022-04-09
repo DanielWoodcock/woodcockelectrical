@@ -13,7 +13,7 @@ plugins:
 sidebar:
   - name: LED Lighting
     icon: <i class="fa-regular fa-lightbulb"></i>
-    link: ledlighting.md
+    link: ledlighting.html
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/woodcockelectrical
