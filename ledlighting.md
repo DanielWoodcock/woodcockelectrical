@@ -9,6 +9,7 @@ The good news is that we can achieve significant energy savings (and reductions 
 LED lights use around 75 percent less electricity to produce the same amount of light and last significantly longer before needing to be replaced. 
 Check out the lighting power conversion table below <sup><a href="#fn1" id="ref1">1</a></sup> to see for yourself. </div>
 
+
 | Light Output (Lumens) | Incandescent (Watts) | Halogen (Watts) | LED (Watts) |
 |:---:|:---:|:---:|:---:| 
 | 250 | 25 | 18 | 3-4 |
@@ -20,6 +21,6 @@ Check out the lighting power conversion table below <sup><a href="#fn1" id="ref1
 <sup id="fn1">1. All above information from [energyrating.gov.au](https://www.energyrating.gov.au/products/lighting)<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup> 
 
 
-Woodcock Electrical is here to help you become more eco friendly and save money on your electricity bills with energy efficient LED lighting solutions. 
+<div style="text-align: justify"> Woodcock Electrical is here to help you become more eco friendly and save money on your electricity bills with energy efficient LED lighting solutions. </div>
 
 
