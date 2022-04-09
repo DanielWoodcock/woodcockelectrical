@@ -4,10 +4,10 @@ layout: default
 
 ### LED Lighting
 
-Lighting accounts for around 10% of electricity usage in households, and 18–40% of in commercial premises.
+<div style="text-align: justify"> Lighting accounts for around 10% of electricity usage in households, and 18–40% of in commercial premises.
 The good news is that we can achieve significant energy savings (and reductions on our electricity bills) by replacing inefficient lights with efficient LED alternatives which are better value for money than incandescent and halogen light bulbs.
 LED lights use around 75 percent less electricity to produce the same amount of light and last significantly longer before needing to be replaced. 
-Check out the lighting power conversion table below <sup><a href="#fn1" id="ref1">1</a></sup> to see for yourself.
+Check out the lighting power conversion table below <sup><a href="#fn1" id="ref1">1</a></sup> to see for yourself. </div>
 
 | Light Output (Lumens) | Incandescent | Halogen | LED |
 |:---:|:---:|:---:|:---:| 
