@@ -14,7 +14,7 @@ sidebar:
     icon: <i class="fa-solid fa-house"></i>
     link: index.html
   - name: LED Lighting
-    icon: <i class="fa-regular fa-lightbulb"></i>
+    icon: <i class="fa-solid fa-lightbulb"></i>
     link: ledlighting.html
   - name: Test & Tag
     icon: <i class="fa-solid fa-plug-circle-check"></i>
