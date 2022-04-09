@@ -8,7 +8,8 @@ layout: default
 The good news is that we can achieve significant energy savings (and reductions on our electricity bills) by replacing inefficient lights with efficient LED alternatives which are better value for money than incandescent and halogen light bulbs.
 LED lights use around 75 percent less electricity to produce the same amount of light and last significantly longer before needing to be replaced. 
 Check out the lighting power conversion table below <sup><a href="#fn1" id="ref1">1</a></sup> to see for yourself. </div>
-
+<p>
+  </p>
 
 | Light Output (Lumens) | Incandescent (Watts) | Halogen (Watts) | LED (Watts) |
 |:---:|:---:|:---:|:---:| 
