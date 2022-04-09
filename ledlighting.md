@@ -9,7 +9,7 @@ The good news is that we can achieve significant energy savings (and reductions 
 LED lights use around 75 percent less electricity to produce the same amount of light and last significantly longer before needing to be replaced. 
 Check out the lighting power conversion table below <sup><a href="#fn1" id="ref1">1</a></sup> to see for yourself. </div>
 
-| Light Output (Lumens) | Incandescent | Halogen | LED |
+| Light Output (Lumens) | Incandescent (Watts) | Halogen (Watts) | LED (Watts) |
 |:---:|:---:|:---:|:---:| 
 | 250 | 25 | 18 | 3-4 |
 | 500 | 40 | 28 | 5-8 |
