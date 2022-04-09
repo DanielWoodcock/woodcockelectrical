@@ -1,7 +1,6 @@
 title: Home
 logo: /assets/img/namelogo.png
-tel: <a href="tel:0432253216">Call us</a>
-description: Quality job, every time!
+description: Quality job, every time! <a href="tel:0432253216">Call us now</a>
 show_downloads: false
 favicon: true
 color-scheme: auto
