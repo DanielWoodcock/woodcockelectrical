@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![led](/assets/img/commercialledlighting.jpg)
 
 ### LED Lighting
 
